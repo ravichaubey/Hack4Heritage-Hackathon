@@ -1,5 +1,7 @@
 ## Hackathon Information
 
+![](https://techaeris.com/wp-content/uploads/2018/04/NVIDIA-deep-learning-ai-image-reconstruction.jpg)
+
 **Problem Statement:-** The hackathon is divided into 2 phases.Phase 1 is where all participants take part and are asked to solve a smaller version of problem statement, related to basic `planning of art restoration using deep learning in 15 hours.` We conduct this phase in order to filter out the good brains in deep learning, so that our efforts are focused in Phase 2.
 
 • End Objective for Phase 1:- Create the basic structure or framework (with logical functions) of the plan needed in the second phase.
