@@ -55,6 +55,6 @@ After Ingestion, Generally we store data on some database , But for phase 1 and 
         
 4. Total Trainable Params: 2217573
 
-**Reporting and Action:-** Basically reporting our action of our deep learning model is to bring system to work for users. Reporting is either reporting visuals or reporting information like metrics or some relationship. In this case we are reducing _loss_function_name_.
+**Reporting and Action:-** Basically reporting our action of our deep learning model is to bring system to work for users. Reporting is either reporting visuals or reporting information like metrics or some relationship. In this case we are reducing Mean squared error.
 
 **Action:-** We are going to create a webpage to deploy our model. User can upload an image and get back re-generated image on same webpage. ‘Please note that we are not going to show this webpage in Phase 1, due to lack of time. But we are prepared for phase 2.’
